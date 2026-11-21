@@ -10,3 +10,4 @@ print(result.suffix)
 
 print(os.path.dirname(result))
 print(os.path.basename(result)) 
+print(os.path.split(result))
